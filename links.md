@@ -6,4 +6,4 @@ permalink: /links/
 
 ## 2016
 
-[http://themorningbrew.net/](The Morning Brew - Chris Alcock)
+Mar 27, 2016 [The Morning Brew - Chris Alcock](http://themorningbrew.net/)

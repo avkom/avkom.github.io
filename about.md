@@ -10,5 +10,7 @@ Senior Software Engineer
 ### Contact me
 
 [avkomq@gmail.com](mailto:avkomq@gmail.com)
-https://github.com/avkom
-https://www.linkedin.com/in/avkom
+
+[GitHub](https://github.com/avkom)
+
+[LinkedIn](https://www.linkedin.com/in/avkom)
